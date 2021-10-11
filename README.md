@@ -56,3 +56,5 @@
 - 각 메소드에 대한 주석 참고
 
 
+### 4. NLP_Assignment_.ipynb
+- 전체 flow Jupyter Notebook으로 Overview
